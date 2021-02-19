@@ -1,9 +1,14 @@
-### Hi there 👋
+### Hi there 🙃 😉
 
 It's me!
 
 Seja Bem-vindo ao meu github  **Aprendendo novas tecnologias... !!**. 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...x-special/nautilus-clipboard
+copy
+file:///home/isaura/M%C3%BAsica/java-topo.svg
+
+
+
 
 
 <!--
