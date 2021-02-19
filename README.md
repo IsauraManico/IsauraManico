@@ -3,12 +3,8 @@
 It's me!
 
 Seja Bem-vindo ao meu github  **Aprendendo novas tecnologias... !!**. 
-- 🌱 I’m currently learning ...x-special/nautilus-clipboard
-copy
-file:///home/isaura/M%C3%BAsica/java-topo.svg
-
-
-
+- 🌱 I’m currently learning ...
+####JAVA Programing
 
 
 <!--
