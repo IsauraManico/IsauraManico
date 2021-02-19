@@ -2,7 +2,7 @@
 
 It's me!
 
-Seja Bem-vindo ao meu github  **Aprendendo novas tecnologias é o meu foco!!**. 
+Seja Bem-vindo ao meu github  **Aprendendo novas tecnologias... !!**. 
 - 🌱 I’m currently learning ...
 
 
